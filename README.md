@@ -51,7 +51,7 @@ Include figures or plots showing:
 This framework is based on the following research:
 - Zhang, L., and K. Liu. 2024. *Unsupervised origin-destination flow estimation for analyzing COVID-19 impact on public transport mobility*. *Cities*, 151, 105086.
   https://www.sciencedirect.com/science/article/abs/pii/S0264275124003007
-- Zhang, L., and K. Liu. *Modeling and Inferring Purposes of Public Transportation Trips for Human Need-Responsive Urban Mobility Efficiency*. *IEEE ACCESS*, under review.
+- Zhang, L., and K. Liu. *Modeling Purposes of Public Transportation Trips for Human Need-Responsive Urban Mobility Efficiency*. *IEEE ACCESS*, under review.
 - Zhang, L., and K. Liu. *Context-Aware Long-Range Transportation Flow Prediction for Supporting Urban Mobility Informatics*. *Engineering Applications of Artificial Intelligence*, under review.
   https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5257002
   
