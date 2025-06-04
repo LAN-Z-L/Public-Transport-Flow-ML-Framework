@@ -37,18 +37,6 @@ The framework includes three core components:
 - Matplotlib / Seaborn
 - Jupyter Notebooks
 
-## 📁 Repository Structure
-```
-├── data/                    # Sample or synthetic datasets (cleaned and anonymized)
-├── estimation/              # OD flow estimation models
-├── characterization/        # Trip purpose inference models
-├── prediction/              # Long-range forecasting models
-├── utils/                   # Helper functions and shared utilities
-├── notebooks/               # Exploratory and result-visualization notebooks
-├── README.md                # This file
-└── requirements.txt         # Environment dependencies
-```
-
 ## 📊 Example Results
 Include figures or plots showing:
 - Proposed unsupervised machine learning-based method for public transport system origin-destination (OD) flow estimation.
