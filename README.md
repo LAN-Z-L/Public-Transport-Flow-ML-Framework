@@ -5,22 +5,24 @@ This repository presents an AI-driven machine learning framework for estimating,
 ## 🔍 Overview
 The framework includes three core components:
 
-1. **OD Flow Estimation**  
+1. **OD Flow Estimation**
+   *Unsupervised origin-destination flow estimation for analyzing COVID-19 impact on public transport mobility*
    - A new methodology for analyzing COVID-19 impact on public transport mobility.
    - It includes a proposed unsupervised ML method to estimate public transport system OD flows from boarding-alighting data.
    - It includes a temporal-spatial analysis method to analyze OD flow changes before and during COVID-19.
    - The proposed methodology was implemented in analyzing COVID-19 impact in the New York City area.
    - The proposed methodology could support analyzing the impact of natural disasters on public transport mobility across time and space.
 
-2. **Flow Characterization**  
+2. **Flow Characterization**
+   *Modeling and Inferring Purposes of Public Transportation Trips for Human Need-Responsive Urban Mobility Efficiency*
    - Temporal-spatial analysis of COVID-19 impact on urban mobility from the lens of public transportation systems.
    - A new Bayesian-based method is proposed to model and infer public transportation trip purposes at the hourly, station level.
    - By integrating a gravity model for space-dependent trip purpose distributions and a temporal variation model, the method enables reliable PT trip purpose inference.
    - The proposed method is implemented in the New York City area with NYC subway data, revealing temporal and spatial variations in the COVID-19 impact on subway trip purposes, with severity differing by land-use characteristics and trip purpose types.
    - The proposed method could support analyzing the impact of large-scale natural disasters on urban mobility across time and space, aiding transportation agencies in designing more resilient services.
 
-
-3. **Long-Range Flow Prediction**  
+3. **Long-Range Flow Prediction**
+   *Context-Aware Long-Range Transportation Flow Prediction for Supporting Urban Mobility Informatics*
    - Jointly model spatial, contextual, and temporal dynamics for flow prediction.
    - Propose a similarity-based shared dilated convolution method for spatial modeling.
    - Introduce a new multi-context embedding method for integrated contextual modeling.
