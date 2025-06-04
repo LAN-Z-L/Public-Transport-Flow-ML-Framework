@@ -1,4 +1,4 @@
-# A MACHINE LEARNING FRAMEWORK FOR PUBLIC TRANSPORTATION INFRASTRUCTURE SYSTEM FLOW ESTIMATION, CHARACTERIZATION, AND PREDICTION
+## A MACHINE LEARNING FRAMEWORK FOR PUBLIC TRANSPORTATION INFRASTRUCTURE SYSTEM FLOW ESTIMATION, CHARACTERIZATION, AND PREDICTION
 
 This repository presents an AI-driven machine learning framework for estimating, characterizing, and predicting public transportation system flows. Developed using real-world data from New York City and San Francisco subway systems, this framework aims to support resilient and adaptive public transit operations during both normal and disrupted conditions (e.g., pandemics).
 
