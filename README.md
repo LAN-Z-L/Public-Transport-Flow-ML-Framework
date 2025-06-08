@@ -1,11 +1,11 @@
-## A MACHINE LEARNING FRAMEWORK FOR PUBLIC TRANSPORTATION INFRASTRUCTURE SYSTEM FLOW ESTIMATION, CHARACTERIZATION, AND PREDICTION
+## 🚇 A MACHINE LEARNING FRAMEWORK FOR PUBLIC TRANSPORTATION INFRASTRUCTURE SYSTEM FLOW ESTIMATION, CHARACTERIZATION, AND PREDICTION
 
-This repository presents an AI-driven machine learning framework for estimating, characterizing, and predicting public transportation system flows. Developed using real-world data from New York City and San Francisco subway systems, this framework aims to support resilient and adaptive public transit operations during both normal and disrupted conditions (e.g., pandemics).
+This repository presents an AI-driven framework leveraging advanced machine learning techniques for estimating, characterizing, and predicting flows within public transportation infrastructure systems. Developed and validated using real-world subway system data from New York City and San Francisco, the framework aims to support resilient and adaptive public transit operations, especially during disruptive conditions such as the COVID-19 pandemic.
 
-## 🔍 Overview
-The framework includes three core components:
+## 📌 Framework Overview
+The framework comprises three core components:
 
-1. **OD Flow Estimation**
+1. **Public Transportation OD Flow Estimation**: An unsupervised temporal-spatial method to accurately estimate origin-destination (OD) flows and analyze mobility patterns under varying conditions.
    *Unsupervised origin-destination flow estimation for analyzing COVID-19 impact on public transport mobility*
    - A new methodology for analyzing COVID-19 impact on public transport mobility.
    - It includes a proposed unsupervised ML method to estimate public transport system OD flows from boarding-alighting data.
@@ -13,7 +13,7 @@ The framework includes three core components:
    - The proposed methodology was implemented in analyzing COVID-19 impact in the New York City area.
    - The proposed methodology could support analyzing the impact of natural disasters on public transport mobility across time and space.
 
-2. **Flow Characterization**
+2. **Probabilistic Flow Characterization**: A Bayesian-based method designed to infer and characterize trip purposes, enabling deeper insights into urban mobility behavior and transit planning.
    *Modeling and Inferring Purposes of Public Transportation Trips for Human Need-Responsive Urban Mobility Efficiency*
    - Temporal-spatial analysis of COVID-19 impact on urban mobility from the lens of public transportation systems.
    - A new Bayesian-based method is proposed to model and infer public transportation trip purposes at the hourly, station level.
@@ -21,7 +21,7 @@ The framework includes three core components:
    - The proposed method is implemented in the New York City area with NYC subway data, revealing temporal and spatial variations in the COVID-19 impact on subway trip purposes, with severity differing by land-use characteristics and trip purpose types.
    - The proposed method could support analyzing the impact of large-scale natural disasters on urban mobility across time and space, aiding transportation agencies in designing more resilient services.
 
-3. **Long-Range Flow Prediction**
+3. **Context-Aware Long-Range Flow Prediction**: An advanced prediction model utilizing convolution and transformer-based architectures to perform accurate, long-term forecasting of public transportation flows.
    *Context-Aware Long-Range Transportation Flow Prediction for Supporting Urban Mobility Informatics*
    - Jointly model spatial, contextual, and temporal dynamics for flow prediction.
    - Propose a similarity-based shared dilated convolution method for spatial modeling.
@@ -35,16 +35,11 @@ The framework includes three core components:
 - PyTorch 
 - Pandas / NumPy
 - Scikit-learn
-- Geopandas
-- Matplotlib / Seaborn
-- Jupyter Notebooks
 
-## 📊 Example Results
-Include figures or plots showing:
+
+## 📈 Impact of COVID-19 Analysis
 - Proposed unsupervised machine learning-based method for public transport system origin-destination (OD) flow estimation.
   ![image](https://github.com/user-attachments/assets/35cad864-ec9b-454a-99b6-0d32285e33be)
-- Impact of COVID-19 on public transport mobility: Temporal-spatial changes in origin-destination (OD) flows of New York City subway system before and during COVID-19.
-  ![image](https://github.com/user-attachments/assets/3d6013bc-8667-4012-a094-22fab15f219c)
 
 
 ## 📄 Publications
