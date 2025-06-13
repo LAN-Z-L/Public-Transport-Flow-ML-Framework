@@ -25,7 +25,7 @@ Include figures or plots showing:
   (a) selecting optimal number of multilayer perceptron mixer blocks;  
   (b) selecting optimal weight.
   
-  <img src="https://https://github.com/user-attachments/assets/5ade136e-15f5-4d00-8552-c7c6f388f1bb" width="700"/>
+  <img src="https://github.com/user-attachments/assets/5ade136e-15f5-4d00-8552-c7c6f388f1bb" width="700"/>
   
 
 - Performance results for proposed OD flow estimation method:  
