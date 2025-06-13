@@ -49,3 +49,14 @@ Include figures or plots showing:
 - **The implementation results showed that:**
   - **(1)** Although the overall impact of the pandemic was becoming contained as time went by, the rise of weekly new COVID-19 cases in an analysis timeframe led to an impact relatively more intensified than the previous timeframe, in terms of both impact magnitude and breadth. Yet, the intensified impact was still much more contained than the impact for the initial phase of the pandemic, when public health interventions such as “stay-at-home” orders were in place.
   - **(2)** The impact showed a radial pattern: the impact on the inflows to and outflows from the Manhattan neighborhood, the center of the city, became more contained when the overall impact got milder, and the impact became more intensified when the overall impact got severer.
+
+## 📁 Code Organization
+```
+├── models/
+│ ├── mlp_mixer_BART.py # MLP-Mixer model tailored for BART data
+│ └── mlp_mixer_MTA.py # MLP-Mixer model tailored for MTA data
+│
+├── train/
+│ ├── train_with_predict_BART.py # Training and prediction script for BART data
+│ └── train_with_predict_MTA.py # Training and prediction script for MTA data
+```
