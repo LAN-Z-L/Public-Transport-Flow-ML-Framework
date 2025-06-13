@@ -7,7 +7,7 @@ The outbreak of COVID-19 caused unprecedented disruptions to public transport se
 ## 📊 Experiment Results
 Include figures or plots showing:
 - Proposed methodology for analyzing COVID-19 impact on public transport mobility.
-  ![image](https://github.com/user-attachments/assets/a820bd78-de9c-453a-a3c6-5b73bb0224ff)
+  <img src=https://github.com/user-attachments/assets/a820bd78-de9c-453a-a3c6-5b73bb0224ff" width="480"/>
   
 - Proposed unsupervised machine learning-based method for public transport system origin-destination (OD) flow estimation.
   ![image](https://github.com/user-attachments/assets/35cad864-ec9b-454a-99b6-0d32285e33be)
