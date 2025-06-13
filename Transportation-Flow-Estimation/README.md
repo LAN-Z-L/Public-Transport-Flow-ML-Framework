@@ -7,30 +7,30 @@ The outbreak of COVID-19 caused unprecedented disruptions to public transport se
 ## 📊 Experiment Results
 Include figures or plots showing:
 - Proposed methodology for analyzing COVID-19 impact on public transport mobility.  
-  <img src="https://github.com/user-attachments/assets/a820bd78-de9c-453a-a3c6-5b73bb0224ff" width="480"/>
+  <img src="https://github.com/user-attachments/assets/a820bd78-de9c-453a-a3c6-5b73bb0224ff" width="550"/>
 
 - Proposed unsupervised machine learning-based method for public transport system origin-destination (OD) flow estimation.  
-  <img src="https://github.com/user-attachments/assets/35cad864-ec9b-454a-99b6-0d32285e33be" width="480"/>
+  <img src="https://github.com/user-attachments/assets/35cad864-ec9b-454a-99b6-0d32285e33be" width="550"/>
 
 - Weekly trends of COVID-19 new cases in the United States (Data source: CDC 2022).  
-  <img src="https://github.com/user-attachments/assets/83e31a58-5766-40b6-b8d3-264480a250dd" width="480"/>
+  <img src="https://github.com/user-attachments/assets/83e31a58-5766-40b6-b8d3-264480a250dd" width="550"/>
 
 - Performance results for origin-destination (OD) flow estimation model selection:  
   (a) selecting optimal number of multilayer perceptron mixer blocks;  
   (b) selecting optimal weight.  
-  <img src="https://github.com/user-attachments/assets/5ade136e-15f5-4d00-8552-c7c6f388f1bb" width="480"/>
+  <img src="https://github.com/user-attachments/assets/5ade136e-15f5-4d00-8552-c7c6f388f1bb" width="550"/>
 
 - Performance results for proposed OD flow estimation method:  
   (a) comparison of estimated and gold-standard flows before COVID-19;  
   (b) comparison of estimated and gold-standard flows during COVID-19.  
-  <img src="https://github.com/user-attachments/assets/ca0e270e-aab3-4d14-84ca-0b4823577b27" width="480"/>
+  <img src="https://github.com/user-attachments/assets/ca0e270e-aab3-4d14-84ca-0b4823577b27" width="550"/>
 
 - Impact of COVID-19 on public transport mobility:  
   Temporal-spatial changes in OD flows of New York City subway system before and during COVID-19.  
-  <img src="https://github.com/user-attachments/assets/3d6013bc-8667-4012-a094-22fab15f219c" width="480"/>
+  <img src="https://github.com/user-attachments/assets/3d6013bc-8667-4012-a094-22fab15f219c" width="550"/>
 
 - Geographical distance between origin-destination (OD) station pairs of New York City subway system.  
-  <img src="https://github.com/user-attachments/assets/1bc8fbf7-4542-4c27-a98b-c5ac601d3cf1" width="150"/>
+  <img src="https://github.com/user-attachments/assets/1bc8fbf7-4542-4c27-a98b-c5ac601d3cf1" width="250"/>
 
 - **The implementation results showed that:**
   - **(1)** Although the overall impact of the pandemic was becoming contained as time went by, the rise of weekly new COVID-19 cases in an analysis timeframe led to an impact relatively more intensified than the previous timeframe, in terms of both impact magnitude and breadth. Yet, the intensified impact was still much more contained than the impact for the initial phase of the pandemic, when public health interventions such as “stay-at-home” orders were in place.
