@@ -82,21 +82,21 @@ earlyStop = 5000
 earlyStep = 0
 best_loss = float('inf')
 needSave = False
-save_path = r'C:/Users/remote/Desktop/lan-resnet-fina/BART/result_2020_8_5/makabaka.pth'  # 模型存储的地址和名字
+save_path = r'C:/Users/remote/Desktop/lan-resnet-fina/BART/result_2020_8_5/makabaka.pth'  
 
 
 
 
 start_epoch = 0
-RESUME =  False     # 设置是否需要从上次的状态继续训练
+RESUME =  False     
 if RESUME:
-    path_checkpoint = r'C:/Users/remote/Desktop/lan-resnet-fina/BART/result_2020_8_5/models/checkpoint/ckpt_best.pth'  # 断点路径
-    checkpoint = torch.load(path_checkpoint, map_location=torch.device('cpu'))  # 加载断点
+    path_checkpoint = r'C:/Users/remote/Desktop/lan-resnet-fina/BART/result_2020_8_5/models/checkpoint/ckpt_best.pth'  
+    checkpoint = torch.load(path_checkpoint, map_location=torch.device('cpu')) 
 
-    myNet.load_state_dict(checkpoint['net'])  # 加载模型可学习参数
+    myNet.load_state_dict(checkpoint['net'])  
 
-    optimizer.load_state_dict(checkpoint['optimizer'])  # 加载优化器参数
-    start_epoch = checkpoint['epoch'] +1  # 设置开始的epoch
+    optimizer.load_state_dict(checkpoint['optimizer'])  
+    start_epoch = checkpoint['epoch'] +1  
 
 
 
@@ -128,7 +128,7 @@ for epoch in range(start_epoch, epochs):
         loss = loss + l1_weight * l1_norm
         '''
 
-        optimizer.zero_grad() #梯度置0
+        optimizer.zero_grad() 
 
         loss.backward()
 
