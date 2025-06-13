@@ -38,7 +38,8 @@ Include figures or plots showing:
 - Impact of COVID-19 on public transport mobility:  
   Temporal-spatial changes in OD flows of New York City subway system before and during COVID-19.
   
-  <img src="https://github.com/user-attachments/assets/3d6013bc-8667-4012-a094-22fab15f219c" width="600"/>
+  <img src="https://github.com/user-attachments/assets/3d6013bc-8667-4012-a094-22fab15f219c" width="700"/>
+  
 
 - Geographical distance between origin-destination (OD) station pairs of New York City subway system.
   
