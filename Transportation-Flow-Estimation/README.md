@@ -32,16 +32,17 @@ Include figures or plots showing:
   (a) comparison of estimated and gold-standard flows before COVID-19;  
   (b) comparison of estimated and gold-standard flows during COVID-19.
   
-  <img src="https://github.com/user-attachments/assets/ca0e270e-aab3-4d14-84ca-0b4823577b27" width="800"/>
+  <img src="https://github.com/user-attachments/assets/ca0e270e-aab3-4d14-84ca-0b4823577b27" width="600"/>
   
 
 - Impact of COVID-19 on public transport mobility:  
   Temporal-spatial changes in OD flows of New York City subway system before and during COVID-19.
   
-  <img src="https://github.com/user-attachments/assets/3d6013bc-8667-4012-a094-22fab15f219c" width="800"/>
+  <img src="https://github.com/user-attachments/assets/3d6013bc-8667-4012-a094-22fab15f219c" width="600"/>
 
-- Geographical distance between origin-destination (OD) station pairs of New York City subway system.  
-  <img src="https://github.com/user-attachments/assets/1bc8fbf7-4542-4c27-a98b-c5ac601d3cf1" width="250"/>
+- Geographical distance between origin-destination (OD) station pairs of New York City subway system.
+  
+![image](https://github.com/user-attachments/assets/1bc8fbf7-4542-4c27-a98b-c5ac601d3cf1)
 
 - **The implementation results showed that:**
   - **(1)** Although the overall impact of the pandemic was becoming contained as time went by, the rise of weekly new COVID-19 cases in an analysis timeframe led to an impact relatively more intensified than the previous timeframe, in terms of both impact magnitude and breadth. Yet, the intensified impact was still much more contained than the impact for the initial phase of the pandemic, when public health interventions such as “stay-at-home” orders were in place.
